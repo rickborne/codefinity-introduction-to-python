@@ -4,7 +4,8 @@ categories = "Candy Aisle, Pasta Aisle"
 
 # Slicing Items
 candy1 = items[0:9]
-candy2 = items[11:21]
+candy2 = items[11:20]
+print(candy2)
 dry_goods = items[22:]
 
 # Slicing Categories
